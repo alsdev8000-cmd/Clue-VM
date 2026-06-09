@@ -17,7 +17,6 @@ func funcname:
 end
 ```
 
----
 
 **Labels (for jumps)**
 ```
@@ -26,7 +25,6 @@ mylabel:
   JMP mylabel
 ```
 
----
 
 **Main entry point**
 ```
@@ -35,7 +33,6 @@ main:
   HALT
 ```
 
----
 
 **Registers**
 ```
@@ -72,7 +69,6 @@ DIV  RC  RA  RB   # RC = RA / RB
 MOD  RC  RA  RB   # RC = RA % RB
 ```
 
----
 
 **Bitwise**
 ```
@@ -135,7 +131,6 @@ PRINT     RA   # print without newline
 PRINT_LN  RA   # print with newline
 ```
 
----
 
 **Full example**
 ```
