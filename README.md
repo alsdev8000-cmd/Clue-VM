@@ -1,6 +1,8 @@
 # Clue-VM
 a register based Virtual Machine, with 16 registers and static typing while still obtaining simplicity.
-Creasted by Als Dev, with some assistance from `Anthropic Claude`.
+Its Bytecode is JIT Compiled using MIR, here is [vnmakarov's repo](https://github.com/vnmakarov/mir).
+
+`Anthropic Claude` Was used only for catching errors in my code.
 
 # Syntax
 
